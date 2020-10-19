@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Atividade41APP2</string>
+    <string name="app_name_button_start">COMEÇAR</string>
+    <string name="app_name_Show_case">Atividade4.1 consiste em O usuário terá que gira a tela do celular de verticalmente/horizontalmente e os dados digitados nos campos não poderá se perde </string>
+    <string name="activity1">Activity 1</string>
+    <string name="Nome">Nome</string>
+    <string name="idade">Idade</string>
+    <string name="cpf">CPF</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">E-mail</string>
+    <string name="app_name_button_start_Activity1">Enviar</string>
+
+</resources>
